@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My inventor career</title>
+<style>
+body {
+margin: 0;
+padding: 0;
+
+header{
+background-color:darkblue
+padding: 50px 10%;
+}
+main{
+background-color : lightblue
+}
+footer{
+background-color : lightblue
+}
+</style>
+</head>
+}
+<body>
+<header>
+<h1>My inventor career</h1>
+</header>
+<main>
+<section class="ooo ">
+<div class="ooo ">
+<div class="ooo ">
+
+main
+
+</div>
+<div class="ooo ">
+
+</div>
+</div>
+</section>
+<section class="ooo">
+Section2
+
+</section>
+</main>
+<fonter>
